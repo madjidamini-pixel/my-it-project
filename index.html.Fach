@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>پروژه رزومه</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; text-align: center; padding-top: 100px; background: #f0f2f5; color: #333; }
+        h1 { color: #0070f3; }
+    </style>
+</head>
+<body>
+    <h1>سلام! سایت من با موفقیت بالا آمد 🚀</h1>
+    <p>پروژه آمادگی برای دوره کارآموزی Fachinformatiker</p>
+</body>
+</html>
